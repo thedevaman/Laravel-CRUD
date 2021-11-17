@@ -12,7 +12,7 @@
         <th scope="col">Mother Name</th>
         <th scope="col">Date of Birth</th>
         <th scope="col">Contact Number</th>
-        <th scope="col">Image</th>
+        <th scope="col">Images file</th>
         <th scope="col">Action</th>
       </tr>
     </thead>
